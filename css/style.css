@@ -1,0 +1,58 @@
+#sd-spinner{width:100%;height:100%;top:0;left:0;position:fixed;background-color:rgba(0,0,0,0.3);z-index:1000}#sd-spinner>div{margin-left:auto;margin-right:auto}@-webkit-keyframes uil-ring-anim{0%{-ms-transform:rotate(0deg);-moz-transform:rotate(0deg);-webkit-transform:rotate(0deg);-o-transform:rotate(0deg);transform:rotate(0deg)}100%{-ms-transform:rotate(360deg);-moz-transform:rotate(360deg);-webkit-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}@-webkit-keyframes uil-ring-anim{0%{-ms-transform:rotate(0deg);-moz-transform:rotate(0deg);-webkit-transform:rotate(0deg);-o-transform:rotate(0deg);transform:rotate(0deg)}100%{-ms-transform:rotate(360deg);-moz-transform:rotate(360deg);-webkit-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}@-moz-keyframes uil-ring-anim{0%{-ms-transform:rotate(0deg);-moz-transform:rotate(0deg);-webkit-transform:rotate(0deg);-o-transform:rotate(0deg);transform:rotate(0deg)}100%{-ms-transform:rotate(360deg);-moz-transform:rotate(360deg);-webkit-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}@-ms-keyframes uil-ring-anim{0%{-ms-transform:rotate(0deg);-moz-transform:rotate(0deg);-webkit-transform:rotate(0deg);-o-transform:rotate(0deg);transform:rotate(0deg)}100%{-ms-transform:rotate(360deg);-moz-transform:rotate(360deg);-webkit-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}@-moz-keyframes uil-ring-anim{0%{-ms-transform:rotate(0deg);-moz-transform:rotate(0deg);-webkit-transform:rotate(0deg);-o-transform:rotate(0deg);transform:rotate(0deg)}100%{-ms-transform:rotate(360deg);-moz-transform:rotate(360deg);-webkit-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}@-webkit-keyframes uil-ring-anim{0%{-ms-transform:rotate(0deg);-moz-transform:rotate(0deg);-webkit-transform:rotate(0deg);-o-transform:rotate(0deg);transform:rotate(0deg)}100%{-ms-transform:rotate(360deg);-moz-transform:rotate(360deg);-webkit-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}@-o-keyframes uil-ring-anim{0%{-ms-transform:rotate(0deg);-moz-transform:rotate(0deg);-webkit-transform:rotate(0deg);-o-transform:rotate(0deg);transform:rotate(0deg)}100%{-ms-transform:rotate(360deg);-moz-transform:rotate(360deg);-webkit-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes uil-ring-anim{0%{-ms-transform:rotate(0deg);-moz-transform:rotate(0deg);-webkit-transform:rotate(0deg);-o-transform:rotate(0deg);transform:rotate(0deg)}100%{-ms-transform:rotate(360deg);-moz-transform:rotate(360deg);-webkit-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}}.uil-ring-css{background:none;position:relative;width:200px;height:200px}.uil-ring-css>div{position:absolute;display:block;width:160px;height:160px;top:20px;left:20px;border-radius:80px;box-shadow:0 6px 0 0 #59ebff;-ms-animation:uil-ring-anim 1s linear infinite;-moz-animation:uil-ring-anim 1s linear infinite;-webkit-animation:uil-ring-anim 1s linear infinite;-o-animation:uil-ring-anim 1s linear infinite;animation:uil-ring-anim 1s linear infinite}a.sd-link{color:#54A4DC}a.sd-link:link,a.sd-link:visited{color:#54A4DC !important}a.sd-link.sd-to-amazon{margin-top:8px;display:block}a.sd-btn,a.sd-btn:link,.sd-btn{display:block;text-align:center;margin-top:8px;margin-bottom:10px;border:1px solid #000000;padding:8px 16px;background-color:white;color:#00000 !important;text-decoration:none;font-family:"Roboto Condensed",sans-serif;font-size:14px;cursor:pointer;text-decoration:none !important;-webkit-transition:color 0.2s, background-color 0.2s;transition:background-color color 0.2s, background-color 0.2s}a.sd-btn:hover,a.sd-btn:active,a.sd-btn:link:hover,a.sd-btn:link:active,.sd-btn:hover,.sd-btn:active{font-family:"Roboto Condensed",sans-serif;color:white !important;background-color:#000000}a.sd-btn[disabled],a.sd-btn:link[disabled],.sd-btn[disabled]{cursor:default}.center{text-align:center}.hide,.sd-tn-hidden{display:none !important}#CustomLabel{text-align:center}.shreskin-body .shreskin-sold-wrapper-table>tbody>tr #createList,.shreskin-body .shreskin-sold-wrapper-table>tbody>tr:first-child+tr+tr+tr{display:initial !important}.shreskin-body .dataTbl #mu_active_tbl_id #tbl_mu_active_tbl_id td a{color:#1455E7}.sd-ebay-addr{color:#54A4DC;display:block}.sd-ebay-name{font-weight:bold}.sd-ebay-delivery{color:#508300;font-size:12px;font-weight:bold;float:left}.sd-ebay-delivery .title{font-weight:normal}.global-shipping-notice{color:#DE9100}.dt-nsb #LineActions{height:145px}.sd-btn.mark-ordered{background-color:#DE9100 !important;color:white !important;border:1px solid white}#sd-tn-stats{color:#508300;border:1px solid #54A4DC;border-top:0;padding:10px 0px;text-align:center}#sd-tn-stats .sd-tn-stats-count{font-size:24px;color:#508300;font-weight:bold}#sd-tn-stats .sd-tn-stats-text{color:#508300}#sd-tn-stats .sd-tn-stats-time{color:#54A4DC}#sd-tn-loading{display:none}#sd-tn-loading i{font-size:16px}#sd-below-search-div{margin:10px;margin-left:20px;display:inline-block}#add-all-addresses{margin-left:-1px;display:inline-block}li.a-tab-heading[data-a-tab-name='inbox_yom_tab'],a[href='/gp/message/?ie=UTF8&cl=1&ref_=ya_mc_yom']{display:none !important}
+
+.add-to-cart.walmart {
+    color: blue !important;
+    border: 1px solid blue;
+}
+
+a.sd-to-walmart.sd-link {
+    color: blue !important;
+}
+
+#add-all-items-to-cart {
+    display: inline-block;
+}
+
+h1 {
+    font-size: 16px;
+    text-align: center;
+    width: 270px;
+}
+
+label > span {
+	width: 27%;
+	padding-right: 10px;
+	float: left;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+label > input[type="text"] {
+    width: 65%;
+    padding: 5px 0px 5px 5px;
+    box-sizing: border-box;
+    margin-bottom: 12px;
+}
+
+#go, #logout {
+    cursor: pointer;
+    background: #000;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    font-size: 20px;
+    width: 69px;
+    float: right;
+    padding: 4px 0;
+    border: 1px solid #000000;
+    margin-top: 10px;
+}
+
+#go:hover, #logout:hover {
+	background: #fff;
+	color: #000;
+}
+
+#logout {
+    width: 109px;
+}

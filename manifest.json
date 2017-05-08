@@ -1,0 +1,24 @@
+{
+   "background": {
+      "scripts": [ "jquery.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon_128.png",
+      "default_title": "Dropshipping Arbitrage Tools for pigeon users"
+   },
+   "content_scripts": [ {
+      "css": [ "css/style.css" ],
+      "js": [ "jquery.js", "content.js", "notify.js" ],
+      "matches": [ "*://*.amazon.com/*", "*://*.ebay.com/*", "*://*.ebay.ca/*", "*://*.ebay.co.uk/*", "*://*.walmart.com/*", "*://*.walmart.ca/*", "*://*.amazon.co.uk/*", "*://*.amazon.ca/*" ]
+   } ],
+   "description": "Dropshipping Arbitrage Tools for pigeon users",
+   "icons": {
+      "128": "images/icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAknPlSBNfLoE2XxNaVnIxHna9B4VWvW4Hpm7SQqDAShX4b0FQ1ylZ6S5R8GGt2dHovNfAnJRCqsBgcWFag7AxkWuXh33Qottt3lTOzpVhwfvBzfOQb8dkwQRszI00U4IsKjkUjCdJKmEhCU71QQ7i0ucSfE64Mkoz/0FQtWqGqerRHjKpzaCpHfERmMTkT2b5RmnI9VVc1lhv0foqXVP8v0v9PPvXyh84hVdDvsZTnYFSllI3GErxmyw9TNw1kEaEYziAcvgk7N9byWLvWHbrp0c3B7n9AoYtScdTj7PDC+Pj/PYWvm+XmvttGbXbwEaFoHn9QYKtdz7u2VqCamWSaQIDAQAB",
+   "manifest_version": 2,
+   "name": "Dropshipping Arbitrage Tools for pigeon users",
+   "permissions": [ "activeTab", "tabs", "*://*.amazon.com/*", "*://*.ebay.com/*", "*://*.ebay.co.uk/*", "*://*.ebay.ca/*", "*://*.walmart.com/*", "*://*.walmart.ca/*", "*://*.amazon.co.uk/*", "*://*.amazon.ca/*", "storage", "management", "identity", "cookies", "alarms", "https://dropship4arbitrage.com/ext-login" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.8"
+}
